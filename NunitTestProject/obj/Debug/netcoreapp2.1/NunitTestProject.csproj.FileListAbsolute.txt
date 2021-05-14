@@ -1,0 +1,17 @@
+D:\capstone project\WebAPI\NunitTestProject\bin\Debug\netcoreapp2.1\NunitTestProject.deps.json
+D:\capstone project\WebAPI\NunitTestProject\bin\Debug\netcoreapp2.1\NunitTestProject.runtimeconfig.json
+D:\capstone project\WebAPI\NunitTestProject\bin\Debug\netcoreapp2.1\NunitTestProject.runtimeconfig.dev.json
+D:\capstone project\WebAPI\NunitTestProject\bin\Debug\netcoreapp2.1\NunitTestProject.dll
+D:\capstone project\WebAPI\NunitTestProject\bin\Debug\netcoreapp2.1\NunitTestProject.pdb
+D:\capstone project\WebAPI\NunitTestProject\obj\Debug\netcoreapp2.1\NunitTestProject.csprojAssemblyReference.cache
+D:\capstone project\WebAPI\NunitTestProject\obj\Debug\netcoreapp2.1\NunitTestProject.AssemblyInfoInputs.cache
+D:\capstone project\WebAPI\NunitTestProject\obj\Debug\netcoreapp2.1\NunitTestProject.AssemblyInfo.cs
+D:\capstone project\WebAPI\NunitTestProject\obj\Debug\netcoreapp2.1\NunitTestProject.csproj.CoreCompileInputs.cache
+D:\capstone project\WebAPI\NunitTestProject\obj\Debug\netcoreapp2.1\NunitTestProject.dll
+D:\capstone project\WebAPI\NunitTestProject\obj\Debug\netcoreapp2.1\NunitTestProject.pdb
+D:\capstone project\WebAPI\NunitTestProject\obj\Debug\netcoreapp2.1\NunitTestProject.genruntimeconfig.cache
+D:\capstone project\WebAPI\NUnitTestProject\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\capstone project\WebAPI\NUnitTestProject\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\capstone project\WebAPI\NUnitTestProject\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\capstone project\WebAPI\NUnitTestProject\bin\Debug\netcoreapp2.1\testhost.exe
+D:\capstone project\WebAPI\NUnitTestProject\bin\Debug\netcoreapp2.1\testhost.dll
